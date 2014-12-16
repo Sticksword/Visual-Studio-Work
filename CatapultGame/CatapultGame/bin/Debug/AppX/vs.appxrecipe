@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>STICKSWORD</Machine>
+    <WindowsUser>Michael</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>dea08b65-720a-4d26-8491-2e4603a8b4bd</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>6BC45E8AB4B2BF2D1E422132D1AE730B82F6BF95447577158ECC3F99A49F9790</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>dea08b65-720a-4d26-8491-2e4603a8b4bd_1.0.0.0_neutral__xp10nbj12f0ca</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>dea08b65-720a-4d26-8491-2e4603a8b4bd_xp10nbj12f0ca!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>dea08b65-720a-4d26-8491-2e4603a8b4bd</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=owner</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-16T01:42:37.969</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\Ammo\rock_ammo.png">
+      <PackagePath>images\Ammo\rock_ammo.png</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\Backgrounds\blank.png">
+      <PackagePath>images\Backgrounds\blank.png</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\Backgrounds\cloud1.png">
+      <PackagePath>images\Backgrounds\cloud1.png</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\Backgrounds\cloud2.png">
+      <PackagePath>images\Backgrounds\cloud2.png</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\Backgrounds\defeat.png">
+      <PackagePath>images\Backgrounds\defeat.png</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\Backgrounds\gameplay_screen.png">
+      <PackagePath>images\Backgrounds\gameplay_screen.png</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\Backgrounds\instructions.png">
+      <PackagePath>images\Backgrounds\instructions.png</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\Backgrounds\mountain.png">
+      <PackagePath>images\Backgrounds\mountain.png</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\Backgrounds\sky.png">
+      <PackagePath>images\Backgrounds\sky.png</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\Backgrounds\title_screen.png">
+      <PackagePath>images\Backgrounds\title_screen.png</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\Backgrounds\title_screen_150x150.png">
+      <PackagePath>images\Backgrounds\title_screen_150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\Backgrounds\title_screen_30x30.png">
+      <PackagePath>images\Backgrounds\title_screen_30x30.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\Backgrounds\title_screen_310x150.png">
+      <PackagePath>images\Backgrounds\title_screen_310x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\Backgrounds\title_screen_620x300.png">
+      <PackagePath>images\Backgrounds\title_screen_620x300.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\Backgrounds\victory.png">
+      <PackagePath>images\Backgrounds\victory.png</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\Catapults\Blue\blueDestroyed\blueCatapult_destroyed.png">
+      <PackagePath>images\Catapults\Blue\blueDestroyed\blueCatapult_destroyed.png</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\Catapults\Blue\blueFire\blueCatapult_fire.png">
+      <PackagePath>images\Catapults\Blue\blueFire\blueCatapult_fire.png</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\Catapults\Blue\blueIdle\blueIdle.png">
+      <PackagePath>images\Catapults\Blue\blueIdle\blueIdle.png</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\Catapults\Blue\bluePullback\blueCatapult_Pullback.png">
+      <PackagePath>images\Catapults\Blue\bluePullback\blueCatapult_Pullback.png</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\Catapults\Fire_Miss\fire_miss.png">
+      <PackagePath>images\Catapults\Fire_Miss\fire_miss.png</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\Catapults\Hit_Smoke\smoke.png">
+      <PackagePath>images\Catapults\Hit_Smoke\smoke.png</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\Catapults\Red\redDestroyed\redCatapult_destroyed.png">
+      <PackagePath>images\Catapults\Red\redDestroyed\redCatapult_destroyed.png</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\Catapults\Red\redFire\redCatapult_fire.png">
+      <PackagePath>images\Catapults\Red\redFire\redCatapult_fire.png</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\Catapults\Red\redIdle\redIdle.png">
+      <PackagePath>images\Catapults\Red\redIdle\redIdle.png</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\Catapults\Red\redPullback\redCatapult_Pullback.png">
+      <PackagePath>images\Catapults\Red\redPullback\redCatapult_Pullback.png</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\HUD\ammoType.png">
+      <PackagePath>images\HUD\ammoType.png</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\HUD\Arrow.png">
+      <PackagePath>images\HUD\Arrow.png</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\HUD\hudBackground.png">
+      <PackagePath>images\HUD\hudBackground.png</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\HUD\windArrow.png">
+      <PackagePath>images\HUD\windArrow.png</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\images\Catapults\AnimationsDef.xml">
+      <PackagePath>images\Catapults\AnimationsDef.xml</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\js\CreateJS\easeljs-0.6.1.min.js">
+      <PackagePath>js\CreateJS\easeljs-0.6.1.min.js</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\js\CreateJS\preloadjs-0.3.1.min.js">
+      <PackagePath>js\CreateJS\preloadjs-0.3.1.min.js</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\sounds\BoulderHit.wav">
+      <PackagePath>sounds\BoulderHit.wav</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\sounds\CatapultExplosion.wav">
+      <PackagePath>sounds\CatapultExplosion.wav</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\sounds\CatapultFire.wav">
+      <PackagePath>sounds\CatapultFire.wav</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\sounds\Lose.wav">
+      <PackagePath>sounds\Lose.wav</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\sounds\RopeStretch.wav">
+      <PackagePath>sounds\RopeStretch.wav</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\sounds\Win.wav">
+      <PackagePath>sounds\Win.wav</PackagePath>
+      <Modified>2013-09-03T21:09:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Desktop\CatapultGame-master\CatapultGame\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-12-16T01:42:37.877</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20512</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20512</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
